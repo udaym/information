@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+![codeship status](https://www.codeship.io/projects/8dcaecc0-b409-0131-21d5-720e75682c3d/status)
 
 
 Please feel free to use a different markup language if you do not plan to run
